@@ -1,5 +1,26 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
-    <string name="ola_mundo">Olá mundo</string>
+    <string name="app_name">App de Carros Elétricos</string>
+    <string name="ola_mundo">Eletric Car</string>
     <string name="bem_vindo">Bem-vindo ao aplicativo</string>
+    <string name="eletric_car">Eletric Car</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="pre_o">Preço</string>
+    <string name="bateria">Bateria</string>
+    <string name="p_tencia">Pôtencia</string>
+    <string name="recarga">Recarga</string>
+    <string name="preco_kwh">Preço kwh</string>
+    <string name="km_percorrido">KM Percorrido</string>
+    <string name="calcular">Calcular</string>
+
+    <string-array name="array_cidade">
+        <item>Macapá</item>
+        <item>Belém</item>
+        <item>Manaus</item>
+        <item>Bela Vista</item>
+        <item>Pouso Alegre</item>
+        <item>São Paulo</item>
+        <item>Rios de Janeiro</item>
+        <item>Ponta Porãn</item>
+    </string-array>
 </resources>
